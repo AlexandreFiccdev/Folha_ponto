@@ -1,7 +1,7 @@
 # Gerador de Folhas de Ponto para Professores
 
 ## Descrição
-Este projeto automatiza a geração de folhas de ponto para professores com base em uma planilha de controle de presença. A partir do arquivo `LIVRO PONTO OUTUBRO 2024.xls`, o script gera um documento `.docx` para cada professor, preenchendo automaticamente os campos de nome, turno, situação, cadastro, vínculo e horários das aulas de acordo com o modelo `SETEMBRO 2025.docx`.
+Este projeto automatiza a geração de folhas de ponto para professores com base em uma planilha de controle de presença. A partir do arquivo `Livro.xlsx`, o script gera um documento `.docx` para cada professor, preenchendo automaticamente os campos de nome, turno, situação, cadastro, vínculo e horários das aulas de acordo com o modelo `Março.docx`.
 
 ## Funcionalidades
 - **Leitura da planilha de presença** (`.xlsx`)
