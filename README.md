@@ -20,7 +20,7 @@ pip install pandas openpyxl xlrd python-docx
 ## Como Usar
 1. **Coloque os arquivos na pasta do projeto:**
    - `LIVRO.xlsx`
-   - `MARCO  .docx`
+   - `Março.docx`
 2. **Execute o script:**
    ```bash
    python main.py
